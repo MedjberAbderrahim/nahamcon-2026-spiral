@@ -1,0 +1,11 @@
+{
+  "hh_username" : "BuildHackSecure",
+  "category" : "web",
+  "name" : "My Example Challenge",
+  "description" : "This is a short description of the challenge",
+  "difficulty" : 1,
+  "answer_type" :   "flags|questions",
+  "lab" :   true,
+  "http" : true,
+  "port"  : 8080
+}

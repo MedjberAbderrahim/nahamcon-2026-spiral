@@ -1,0 +1,12 @@
+{
+  "questions" : [
+    {
+      "question": "What is the username of the user?",
+      "answer": "john"
+    },
+    {
+      "question": "What is the username of the admin?",
+      "answer": "bob"
+    }
+  ]
+}
