@@ -1,5 +1,5 @@
-# My Challenge
+# Spiral
 
-### Welcome
-Welcome to my challenge your can use variables {{ server-url }} , {{ server-ip }} or {{ server-port }}
+From the end, a new beginning.
 
+nc {{ server-ip }} {{ server-port }}

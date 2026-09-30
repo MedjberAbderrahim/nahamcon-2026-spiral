@@ -1,11 +1,11 @@
 {
-  "hh_username" : "BuildHackSecure",
-  "category" : "web",
-  "name" : "My Example Challenge",
-  "description" : "This is a short description of the challenge",
-  "difficulty" : 1,
-  "answer_type" :   "flags|questions",
-  "lab" :   true,
-  "http" : true,
-  "port"  : 8080
+  "hh_username": "Spinel99",
+  "category": "pwn",
+  "name": "Spiral",
+  "description": "From the end, a new beginning",
+  "difficulty": 3,
+  "answer_type": "flags",
+  "lab": true,
+  "http": false,
+  "port": 10000
 }
